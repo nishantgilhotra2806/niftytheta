@@ -44,13 +44,13 @@ _Features to be Implemented_
 
 #### URLs
 
-[Website Link]()
+[Website Link](https://niftytheta.netlify.app/)
 
-[Youtube Video]()
+[Youtube Video](https://youtu.be/6mzCXOeHt8M)
 
 #### Presentation
 
-[Presentation Link]()
+[Presentation Link](https://bit.ly/3d1BcDR)
 
 #### Next Steps
 
