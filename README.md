@@ -25,8 +25,8 @@ NiftyTheta currently is a No-Code NFT Marketplace. Soon we will allow permission
 
 We have developed two smart-contracts using the Solidity language which were deployed to the Theta Fuji C-Chain testnet:
 
--   Creators Registry contract: 0xD815d44D6876C6b04f923f069029787f96fb7962
--   NFT marketplace contract: 0x6EF3CD173EC7c5A533A5970B6EcFaB04EFa7F75f
+-   Creators Registry contract: 0xb5b173F237B9f40115e487A1d1D28b7750693d82
+-   NFT marketplace contract: 0xe80b8207aBb7cA8d3efb456AeEbb0d0A9ecA52ac
 
 _Features Implemented_
 
